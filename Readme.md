@@ -25,12 +25,12 @@ This project use BeagleBone-Black as the microprocessor of the smart-band. Two L
 
 ## Type of toilet    
 ```
-* KFC, Mcdonald    
-* Popular Gas-Station    
-* MRT    
-* Popular Convenience Store    
-* Popular department Store    
-* Hope you add some...    
+*  KFC, Mcdonald    
+*  Popular Gas-Station    
+*  MRT    
+*  Popular Convenience Store    
+*  Popular department Store    
+*  Hope you add some...    
 ```
 
 ## Equipment of Smart Band
