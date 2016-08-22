@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Hurry</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_new">newActivity</string>
+    <string name="title_activity_wait">waitActivity</string>
+
+    <string name="hello_world">Use Hurry to help you find the toilet as soon as possible</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_data_base_update">DataBaseUpdateActivity</string>
+    <string name="title_activity_direction">DirectionActivity</string>
+    <string name="title_activity_about_hurry">AboutHurry</string>
+
+    <string name="about">
+        Hurry是一款結合智慧型腰帶致動的APP。\n
+        透過與智慧型腰帶連接，\n
+        你可以在最短的時間內，\n
+        找到最近的廁所。\n
+        \n
+        \n
+        本系統之發起人為SunnerLi。\n
+        目前本團隊只有1人，\n
+        歡迎其他開發者加入本團隊，\n
+        一起讓這套系統變得更好！\n
+        \n
+        \n
+        本系統之圖片取自於網路。\n
+        若圖片原創者不願意開放授權，\n
+        煩請來信告知。\n
+        SunnerLi addr: a6214123@gmail.com\n
+        \n
+    </string>
+
+    <string name="groyp">
+        使用步驟為：\n
+        1. 安裝此APP\n
+        2. 開啟APP後更新廁所資料庫\n
+        3. 開啟智慧型腰帶\n
+        4. 重啟此APP\n
+        5. 和智慧型腰帶進行藍牙連接\n
+        6. 按下監控模式\n
+        7. 做其他事！\n
+        \n
+        使用者可在主畫面點選按鈕更新資料庫。\n
+        也可在導航畫面中，\n
+        點選Menu按鍵，選取更新資料庫。\n
+        \n
+        當你尿急時，先打開智慧型手機，\n
+        並按下智慧型腰帶上的按鈕，\n
+        即可顯示與你最近的廁所之導航路徑！\n
+        (本服務目前僅適用於高雄地區)\n
+    </string>
+
+    <string name="explain">
+        綠色線條為導航路徑。\n
+        線的端點為你目前所在的位置。\n
+        紅色標示為廁所。\n
+        請沿著綠色線條指示走，\n
+        即可找到廁所。\n
+        多次按下智慧型腰帶上的按鈕，\n
+        可更新地圖導航資訊。\n
+        \n
+        \n
+        若地圖沒有出現綠色導航線條，\n
+        請檢查是否開啟網路。\n
+        若地圖上的位置不為你的所在位置，\n
+        請檢查是否開啟GPS功能。\n
+    </string>
+
+    <string name="title_activity_group">GroupActivity</string>
+
+</resources>

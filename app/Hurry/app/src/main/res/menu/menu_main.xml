@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/database_update"
+        android:orderInCategory="100"
+        android:title="資料庫更新"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/reload"
+        android:title="重新整理"/>
+    <item
+        android:id="@+id/direction"
+        android:title="說明"/>
+    <item
+        android:id="@+id/exit"
+        android:title="退出導引畫面"/>
+</menu>
