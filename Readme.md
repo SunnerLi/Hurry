@@ -19,17 +19,17 @@ Hurry is a open source project that can tell you the nearest toilet. The project
 
 ## Idea about Hurry
 
-In Taiwan, 2015 is said to be the year that IOT would explore. This project is a simple application about IOT. This project is an open source project. We hope the people who interested in this topic can help us revise this system, and make it beter and better!</br>     
+In Taiwan, 2015 is said to be the year that IOT would explore. This project is a simple application about IOT. This project is an open source project. We hope the people who interested in this topic can help us revise this system, and make it beter and better!</br></br></br>     
      
      
 ## location
 
-you can just apply this system in Kaohsiung(in Taiwan). Maybe you can add other places you want.</br>     
+you can just apply this system in Kaohsiung(in Taiwan). Maybe you can add other places you want.</br></br></br>     
      
      
 ## How To
 
-This project use BeagleBone-Black as the microprocessor of the smart-band. Two LED light to show the status of the band. The band also have bluetooth dongle to pass the data that the APP would receive. On the other hand, the APP would detect where you are and show you the way after smart-phone accept the bluetooth signal.</br>     
+This project use BeagleBone-Black as the microprocessor of the smart-band. Two LED light to show the status of the band. The band also have bluetooth dongle to pass the data that the APP would receive. On the other hand, the APP would detect where you are and show you the way after smart-phone accept the bluetooth signal.</br></br></br>     
      
      
 ## Type of toilet    
@@ -46,7 +46,7 @@ This project use BeagleBone-Black as the microprocessor of the smart-band. Two L
 
 the smart band is implemented by beaglebone-black devC. The program is written by C. The environment is Ubuntu 14.04. 
 
-Notice: The smart band communicate with the smart phone over bluetooth. The Bluetooth transfer program might not work at some linux system. It depend on which the OS support the serial protocol.    </br>     
+Notice: The smart band communicate with the smart phone over bluetooth. The Bluetooth transfer program might not work at some linux system. It depend on which the OS support the serial protocol.    </br></br></br>     
      
      
 License
