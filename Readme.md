@@ -5,6 +5,12 @@ title: SunChat
 
 # Hurry
 ### A Nearest Bathroom Guiding system Actuate By Smart-Band
+[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg?maxAge=2592000)]()
+[![Packagist](https://img.shields.io/badge/First Commit Date-2015.08-brightgreen.svg)]()
+[![Packagist](https://img.shields.io/badge/Last Commit Date-2016.07-brightgreen.svg)]()
+[![Packagist](https://img.shields.io/badge/Branch-4-orange.svg)]()
+[![Packagist](https://img.shields.io/badge/Commit-50+-red.svg)]()</br>   
+
 Hurry is a open source project that can tell you the nearest toilet. The project is operated under bitbucket, and it moves to github now.    
 <p align="center">
   <img src="https://github.com/SunnerLi/Hurry/blob/master/Img/hurry_icon.png" height=128 width=128/>
