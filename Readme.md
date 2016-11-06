@@ -19,19 +19,19 @@ Hurry is a open source project that can tell you the nearest toilet. The project
 
 ## Idea about Hurry
 
-In Taiwan, 2015 is said to be the year that IOT would explore. This project is a simple application about IOT. This project is an open source project. We hope the people who interested in this topic can help us revise this system, and make it beter and better!</br></br>     
-     
-     
+In Taiwan, 2015 is said to be the year that IOT would explore. This project is a simple application about IOT. This project is an open source project. We hope the people who interested in this topic can help us revise this system, and make it beter and better!    
+</br>    
+</br>     
 ## location
 
-you can just apply this system in Kaohsiung(in Taiwan). Maybe you can add other places you want.</br></br>     
-     
-     
+you can just apply this system in Kaohsiung(in Taiwan). Maybe you can add other places you want.    
+</br>    
+</br>     
 ## How To
 
-This project use BeagleBone-Black as the microprocessor of the smart-band. Two LED light to show the status of the band. The band also have bluetooth dongle to pass the data that the APP would receive. On the other hand, the APP would detect where you are and show you the way after smart-phone accept the bluetooth signal.</br></br>     
-     
-     
+This project use BeagleBone-Black as the microprocessor of the smart-band. Two LED light to show the status of the band. The band also have bluetooth dongle to pass the data that the APP would receive. On the other hand, the APP would detect where you are and show you the way after smart-phone accept the bluetooth signal.      
+</br>    
+</br>    
 ## Type of toilet    
 ```
 *  KFC, Mcdonald    
